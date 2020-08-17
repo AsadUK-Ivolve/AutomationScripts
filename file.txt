@@ -1,0 +1,1 @@
+wordpress,https://bitnami.com/redirect/to/1114686/bitnami-wordpress-5.4.2-2-linux-debian-10-x86_64.ova
